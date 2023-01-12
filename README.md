@@ -1,5 +1,5 @@
 # Game-character
-school practise 
+
 
 Tee tekstipohjainen ohjelma (eli siinä ei tarvitse olla graafista käyttöliittymää), joka mallintaa pelihahmoa ja tämän taitojen kehitystä. 
 Jokainen taito koostuu nimestä ja kyseisen taidon numeerisesta taitotasosta. Suurin mahdollinen taitotaso on 20.
